@@ -1,0 +1,17 @@
+{
+  "name": "perpule",
+  "version": "1.0.0",
+  "description": "FAQ bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SA",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.9.1",
+    "botbuilder-cognitiveservices": "^1.1.0",
+    "require": "^2.4.20",
+    "restify": "^5.2.0"
+  }
+}
